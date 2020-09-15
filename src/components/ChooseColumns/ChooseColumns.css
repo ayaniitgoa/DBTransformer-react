@@ -1,0 +1,15 @@
+.submit-columns-button {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.download-button-container {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.csv-link {
+  text-decoration: none !important;
+}
